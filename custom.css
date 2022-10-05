@@ -1,15 +1,11 @@
 .title.tabs.show-file-icons .editor-actions li,
-.part.panel.basepanel.bottom .composite.title .panel-switcher-container li,
-.part.panel.basepanel.bottom .composite.title .title-actions li,
-.part.panel.basepanel.bottom .composite.title .global-actions li
+.part.panel.basepanel.bottom .composite.title li
 {
 	visibility: hidden;
 }
 
 .title.tabs.show-file-icons:hover .editor-actions li,
-.part.panel.basepanel.bottom .composite.title:hover .panel-switcher-container li,
-.part.panel.basepanel.bottom .composite.title:hover .title-actions li,
-.part.panel.basepanel.bottom .composite.title:hover .global-actions li
+.part.panel.basepanel.bottom .composite.title:hover li
 {
 	visibility: visible;
 }
